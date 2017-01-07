@@ -1,0 +1,10 @@
+D:\GitHub\YetAnotherRecordProcessor\YetAnotherRecordProcessor\bin\Debug\YetAnotherRecordProcessor.exe.config
+D:\GitHub\YetAnotherRecordProcessor\YetAnotherRecordProcessor\bin\Debug\YetAnotherRecordProcessor.exe
+D:\GitHub\YetAnotherRecordProcessor\YetAnotherRecordProcessor\bin\Debug\YetAnotherRecordProcessor.pdb
+D:\GitHub\YetAnotherRecordProcessor\YetAnotherRecordProcessor\obj\Debug\YetAnotherRecordProcessor.csproj.ResolveComReference.cache
+D:\GitHub\YetAnotherRecordProcessor\YetAnotherRecordProcessor\obj\Debug\YetAnotherRecordProcessor.Form1.resources
+D:\GitHub\YetAnotherRecordProcessor\YetAnotherRecordProcessor\obj\Debug\YetAnotherRecordProcessor.Properties.Resources.resources
+D:\GitHub\YetAnotherRecordProcessor\YetAnotherRecordProcessor\obj\Debug\YetAnotherRecordProcessor.csproj.GenerateResource.Cache
+D:\GitHub\YetAnotherRecordProcessor\YetAnotherRecordProcessor\obj\Debug\YetAnotherRecordProcessor.exe
+D:\GitHub\YetAnotherRecordProcessor\YetAnotherRecordProcessor\obj\Debug\YetAnotherRecordProcessor.pdb
+D:\GitHub\YetAnotherRecordProcessor\YetAnotherRecordProcessor\obj\Debug\YetAnotherRecordProcessor.csprojResolveAssemblyReference.cache
