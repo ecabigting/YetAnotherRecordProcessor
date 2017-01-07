@@ -1,3 +1,3 @@
 # YetAnotherRecordProcessor
-Record Processor
--------------------------------------------
+
+This is C# windows form I created to automate on matching records from different excel files. Main task is to match name from Excel file A to names existing in Excel File B. Once the names are verified to be true and accurate. Copy the ID number from Excel File A and Paste it to the same column in Excel File B. Not all matches can be made due to some of the names can be considered correct but do not appear to have the same spelling or character assembly. To fix this part, I put multiple checking by disecting the strings of each names and compare them by parts. Although it yields only 90% of the record count I found this better than manually reading and copy paste each record.
